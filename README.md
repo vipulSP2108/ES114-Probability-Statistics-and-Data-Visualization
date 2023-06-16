@@ -3,7 +3,7 @@
 This document contains important information about the course.
 
 `Course Information:`
-
+ 
 > Course Name: Probability, Statistics, and Data Visualization
 
 > Course Code: ES114
